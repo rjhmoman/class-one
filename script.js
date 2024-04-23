@@ -1,7 +1,7 @@
 let RomjanbhaiAge = 19;
 
 if (RomjanbhaiAge > 18) {
-  console.log();
+  console.log("biya korta parbe");
 } else {
-  console.log(aga);
+  console.log("sonnat a khatna korata hoba");
 }
